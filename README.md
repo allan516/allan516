@@ -18,7 +18,7 @@
 
 ### 💡 Acredito que o aprendizado constante é a chave para o sucesso.
 
-Entre em contato comigo, através do [Linkedin](https://www.linkedin.com/in/allan-mendes-437182283/) vamos conversar. 😄
+Entre em contato comigo através do [Linkedin](https://www.linkedin.com/in/allan-mendes-437182283/), vamos conversar. 😄
 
 <!--
 **allan516/allan516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
