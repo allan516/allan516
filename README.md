@@ -14,12 +14,14 @@
 
 ---
 
-### Possíveis próximos estudos:
-* ![icons8-reagir-48](https://github.com/allan516/allan516/assets/79980519/2a7542ed-a396-4aaa-94de-35962da4bcad)
+### interesses:
 
-*  ![icons8-angularjs-48](https://github.com/allan516/allan516/assets/79980519/ea991b28-ca43-4b3f-a42c-415e09bc93ee)
+<p align="left">
+  <img src="https://github.com/allan516/allan516/assets/79980519/2a7542ed-a396-4aaa-94de-35962da4bcad" alt="react" width="48" height="48">
+  <img src="https://github.com/allan516/allan516/assets/79980519/ea991b28-ca43-4b3f-a42c-415e09bc93ee" alt="angular" height="48" width="48px">
+</p>
 
- ---
+---
 
 ### 💡 Acredito que o aprendizado constante é a chave para o sucesso.
 
