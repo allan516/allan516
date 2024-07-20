@@ -4,9 +4,13 @@
 
 👨‍🎓 No momento estou focado em aprender:
 
-![icons8-css3-96](https://github.com/allan516/allan516/assets/79980519/ec551263-5df9-4d74-9b7d-f87d233c9155) ![icons8-html-5-96](https://github.com/allan516/allan516/assets/79980519/bded9730-3d78-4871-a3e0-e5c3fc9ddd60) ![icons8-javascript-96](https://github.com/allan516/allan516/assets/79980519/1313c224-8d58-4bc8-98c1-626870fef52b)
+<p align="center">
+  <img src="https://github.com/allan516/allan516/assets/79980519/ec551263-5df9-4d74-9b7d-f87d233c9155" alt="CSS3" width="96" height="96">
+  <img src="https://github.com/allan516/allan516/assets/79980519/bded9730-3d78-4871-a3e0-e5c3fc9ddd60" alt="HTML5" width="96" height="96">
+  <img src="https://github.com/allan516/allan516/assets/79980519/1313c224-8d58-4bc8-98c1-626870fef52b" alt="JavaScript" width="96" height="96">
+  <img src="https://github.com/user-attachments/assets/3896d932-373f-47e7-b97d-128cf7df7338" alt="TypeScript" width="96" height="96">
+</p>
 
-![icons8-typescript-96](https://github.com/user-attachments/assets/3896d932-373f-47e7-b97d-128cf7df7338)
 
 ---
 
