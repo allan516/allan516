@@ -19,6 +19,7 @@
 <p align="left">
   <img src="https://github.com/allan516/allan516/assets/79980519/2a7542ed-a396-4aaa-94de-35962da4bcad" alt="react" width="48" height="48">
   <img src="https://github.com/allan516/allan516/assets/79980519/ea991b28-ca43-4b3f-a42c-415e09bc93ee" alt="angular" height="48" width="48px">
+   <img src="https://github.com/user-attachments/assets/4792d993-ccaf-4e51-82ab-b93b61d93e40" alt="angular" height="48" width="48px"> 
 </p>
 
 ---
