@@ -1,8 +1,8 @@
 ## Oi meu nome é Allan Mendes  👋
 
-📚 Estudante de análise e desenvolvimento de sistemas
+🎓 Análise e Desenvolvimento de Sistemas
 
-👨‍🎓 No momento estou focado em aprender:
+📚 No momento estou focado em aprender:
 
 <p align="center">
   <img src="https://github.com/allan516/allan516/assets/79980519/ec551263-5df9-4d74-9b7d-f87d233c9155" alt="CSS3" width="96" height="96">
