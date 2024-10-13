@@ -1,45 +1,38 @@
-## Oi meu nome é Allan Mendes  👋
+## Olá, me chamo Allan Mendes! 👋
 
-🎓 Análise e Desenvolvimento de Sistemas
+🎓 **Formado em Análise e Desenvolvimento de Sistemas**
 
-📚 No momento estou focado em aprender:
+🚀 **Desenvolvedor** sempre aprendendo e aplicando novas tecnologias.
+
+---
+
+### 🛠️ Tecnologias:
 
 <p align="center">
-  <img src="https://github.com/allan516/allan516/assets/79980519/ec551263-5df9-4d74-9b7d-f87d233c9155" alt="CSS3" width="96" height="96">
-  <img src="https://github.com/allan516/allan516/assets/79980519/bded9730-3d78-4871-a3e0-e5c3fc9ddd60" alt="HTML5" width="96" height="96">
-  <img src="https://github.com/allan516/allan516/assets/79980519/1313c224-8d58-4bc8-98c1-626870fef52b" alt="JavaScript" width="96" height="96">
-  <img src="https://github.com/user-attachments/assets/3896d932-373f-47e7-b97d-128cf7df7338" alt="TypeScript" width="96" height="96">
-</p>
-
-
----
-
-### interesses:
-
-<p align="left">
-  <img src="https://github.com/allan516/allan516/assets/79980519/2a7542ed-a396-4aaa-94de-35962da4bcad" alt="react" width="48" height="48">
-  <img src="https://github.com/allan516/allan516/assets/79980519/ea991b28-ca43-4b3f-a42c-415e09bc93ee" alt="angular" height="48" width="48px">
-   <img src="https://github.com/user-attachments/assets/4792d993-ccaf-4e51-82ab-b93b61d93e40" alt="angular" height="48" width="48px"> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-### 💡 Acredito que o aprendizado constante é a chave para o sucesso.
+### 🌱 Áreas de interesse:
 
-Entre em contato comigo através do [Linkedin](https://www.linkedin.com/in/allan-mendes-437182283/), vamos conversar. 😄
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
-<!--
-**allan516/allan516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📫 Como me encontrar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+Entre em contato comigo através do 💼 [**LinkedIn**](https://www.linkedin.com/in/allan-mendes-437182283/), vamos conversar. 😄
