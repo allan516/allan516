@@ -33,6 +33,8 @@
 
 ---
 
+### 💡 **Acredito que o aprendizado constante é a chave para o sucesso.**
+
 ### 📫 Como me encontrar:
 
 Entre em contato comigo através do 💼 [**LinkedIn**](https://www.linkedin.com/in/allan-mendes-437182283/), vamos conversar. 😄
