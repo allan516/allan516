@@ -2,7 +2,7 @@
 
 🎓 **Formado em Análise e Desenvolvimento de Sistemas**
 
-🚀 **Desenvolvedor** sempre aprendendo e aplicando novas tecnologias.
+🚀 **Desenvolvedor**, aprendendo e aplicando novas tecnologias.
 
 ---
 
