@@ -47,6 +47,7 @@ const Allan = {
 <a href="https://www.linkedin.com/in/allan-mendes-437182283/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+
 <a href="https://allan516.github.io/Allan-Mendes/">
   <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio" />
 </a>
