@@ -3,7 +3,7 @@
 🎓 **Formado em Análise e Desenvolvimento de Sistemas**  
 🚀 **Desenvolvedor Full Stack em constante aprendizado**  
 
-💡 **Acredito que o aprendizado contínuo é essencial para a inovação.**  
+💡 **Acredito que o aprendizado constante é a chave para o sucesso.**  
 
 ---
 
