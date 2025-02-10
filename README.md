@@ -1,10 +1,19 @@
-![img](https://github.com/user-attachments/assets/95d6bfe1-8afa-430c-a8f9-f31c0a347abf)
+
+<div align="center" >
+
+  ![img](https://github.com/user-attachments/assets/95d6bfe1-8afa-430c-a8f9-f31c0a347abf)
   
   
   # **Olá, me chamo Allan Mendes!** 👋  
-  🎓 **Formado em Análise e Desenvolvimento de Sistemas**  
-  🚀 **Desenvolvedor Full Stack em constante aprendizado**  
+
+</div>
+
+  🎓 **Formado em Análise e Desenvolvimento de Sistemas**
+
+  🚀 **Desenvolvedor Full Stack em constante aprendizado**
+
   💡 **Acredito que o aprendizado constante é a chave para o sucesso.**  
+ 
 ---
 
 ## 🔥 **Sobre mim**
