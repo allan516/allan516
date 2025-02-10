@@ -1,10 +1,9 @@
-# **Olá, me chamo Allan Mendes!** 👋  
-
-🎓 **Formado em Análise e Desenvolvimento de Sistemas**  
-🚀 **Desenvolvedor Full Stack em constante aprendizado**  
-
-💡 **Acredito que o aprendizado constante é a chave para o sucesso.**  
-
+  ![img](https://github.com/user-attachments/assets/50609497-8e3e-4f6d-999f-9658461c8f29)   
+  
+  # **Olá, me chamo Allan Mendes!** 👋  
+  🎓 **Formado em Análise e Desenvolvimento de Sistemas**  
+  🚀 **Desenvolvedor Full Stack em constante aprendizado**  
+  💡 **Acredito que o aprendizado constante é a chave para o sucesso.**  
 ---
 
 ## 🔥 **Sobre mim**
