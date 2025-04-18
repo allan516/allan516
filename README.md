@@ -54,7 +54,7 @@ const Allan = {
 ## 📫 **Onde me encontrar?** 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/allan-mendes-437182283/">
+  <a href="https://www.linkedin.com/in/allan-mendes-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
