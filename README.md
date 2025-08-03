@@ -1,13 +1,10 @@
 
-<div align="center" >
+<div >
 
   ![img](https://github.com/user-attachments/assets/95d6bfe1-8afa-430c-a8f9-f31c0a347abf)
-  
-  
-  # **Olá, me chamo Allan!** 👋  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&repeat=false&width=450&lines=Ol%C3%A1%2C+me+chamo+Allan%F0%9F%91%8B" alt="Typing SVG" /></a></div>
 
-</div>
-
+---
   🎓 **Formado em Análise e Desenvolvimento de Sistemas**
 
   🚀 **Desenvolvedor Full Stack em constante aprendizado**
@@ -21,8 +18,8 @@
 const Allan = {
   nome: "Allan Mendes",
   formacao: "Análise e Desenvolvimento de Sistemas",
-  stackPrincipal: ["Angular", "TypeScript", "Java", "JavaScript", "Node.js"],
-  interesses: ["React", "Next.js", "NestJS", "Banco de Dados", "DevOps"],
+  stackPrincipal: ["React", "Next.js", "Angular", "TypeScript", "Node.js", "Express", "Java"],
+  interesses: ["NestJS", "Spring Boot", "Banco de Dados", "Microservices", "Arquitetura de Software"]
   hobby: ["Explorar novas tecnologias", "Hackathons", "Projetos open source"]
 };
 ```
@@ -31,14 +28,14 @@ const Allan = {
 
 ## 🛠️ **Tecnologias**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,angular,java,git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css,nodejs,express,java,git" />
 </div>
 
 ---
 
 ## 🚀 **Tecnologias que tenho interesse**  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,mysql,mongodb,docker" />
+  <img src="https://skillicons.dev/icons?i=nestjs,mysql,mongodb,docker" />
 </div>
 
 ---
