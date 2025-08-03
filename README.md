@@ -2,7 +2,8 @@
 <div >
 
   ![img](https://github.com/user-attachments/assets/95d6bfe1-8afa-430c-a8f9-f31c0a347abf)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&repeat=false&width=450&lines=Ol%C3%A1%2C+me+chamo+Allan%F0%9F%91%8B" alt="Typing SVG" /></a></div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&background=0B0A0A&vCenter=true&repeat=false&width=450&lines=Ol%C3%A1%2C+me+chamo+Allan%F0%9F%91%8B" alt="Typing SVG" /></a>
+</div>
 
   🎓 **Formado em Análise e Desenvolvimento de Sistemas**
 
